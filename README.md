@@ -1,8 +1,9 @@
 # Doc
 This is a text repository<br>
 这是一段普通的文本，  
-直接回车不能换行，
-要使用
+直接回车不能换行，  
+要使用  
+[我的博客](http://blog.csdn.net/guodongxiaren)
 
 # 一级标题  
 ## 二级标题  
