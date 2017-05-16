@@ -1,5 +1,9 @@
 # Doc
 This is a text repository
+这是一段普通的文本，  
+直接回车不能换行，<br>  
+要使用<br>  
+
 # 一级标题  
 ## 二级标题  
 ### 三级标题  
