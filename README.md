@@ -1,13 +1,13 @@
 ![Mou icon](http://25.io/mou/Mou_128.png)
 
 # Doc
-This is a text repository<br>
+'This is a text repository'<br>
 
-+ MVC defect
+* MVC defect
 
 <img src="images/MVC_defect.png" alt="MVC" width="360" />
 
-+ MVP 
+- MVP 
 
 <img src="images/MVP.png" alt="MVP" width="360" />
 
@@ -15,7 +15,7 @@ This is a text repository<br>
 
 <img src="images/MVVM.png" alt="MVVM" width="360" />
 
-+ 主流MVVM框架性能对比
+* 主流MVVM框架性能对比
 
 <img src="images/MVVM_ms.jpeg" alt="" width="480" />
 
@@ -24,6 +24,3 @@ This is a text repository<br>
 + Native work process
 
 <img src="images/struc_1.png" alt="" width="640" />
-
-
- 
