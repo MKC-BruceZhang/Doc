@@ -1,6 +1,6 @@
 ![Mou icon](http://25.io/mou/Mou_128.png)
 
-# Doc
+# Doc 2
 `This is a text repository`
 
 ## 开发模式
