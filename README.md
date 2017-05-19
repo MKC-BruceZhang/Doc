@@ -24,9 +24,9 @@
 [React Native 中文网](http://reactnative.cn/)
 
 ## Our Native
-+ Native work process
++ Our Native work process
 
 <img src="images/struc_1.png" alt="" width="640" />
 <img src="images/struc_2.png" alt="" width="640" />
 
-[OurNative tab Doc](https://github.com/successinfo-org/cloudapp-wiki/blob/master/client/api/index.md)
+[Our Native tab Doc](https://github.com/successinfo-org/cloudapp-wiki/blob/master/client/api/index.md)
