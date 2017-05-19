@@ -24,3 +24,4 @@
 + Native work process
 
 <img src="images/struc_1.png" alt="" width="640" />
+<img src="images/struc_2.png" alt="" width="640" />
